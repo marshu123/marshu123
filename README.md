@@ -6,7 +6,7 @@
 
 I build complete web applications — from database schema and REST API to polished, responsive React frontends.
 
-[LinkedIn](https://www.linkedin.com/in/marshidp/) · [Portfolio](https://marshid-portfolio.vercel.app/) · [Telegram](https://t.me/YOUR_TELEGRAM)
+[LinkedIn](https://www.linkedin.com/in/marshidp/) · [Portfolio](https://marshid-portfolio.vercel.app/) · [Telegram](https://t.me/Marsh12356)
 
 </div>
 
