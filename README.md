@@ -66,8 +66,6 @@ I build complete web applications — from database schema and REST API to polis
 
 ### 📊 Statistics & Languages
 
-![GitHub Stats](./profile/stats.svg)
-
 ![Top Languages](./profile/top-langs.svg)
 
 ---
