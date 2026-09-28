@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Marshid 👋
+<img src="./profile/typing.svg" alt="Marshid - Fullstack Developer" />
 
-**Fullstack Developer**
-
-I build complete web applications — from database schema and REST API to polished, responsive React frontends.
+**Fullstack Developer** — from database schema and REST API to polished, responsive React frontends.
 
 [LinkedIn](https://www.linkedin.com/in/marshidp/) · [Portfolio](https://marshid-portfolio.vercel.app/) · [Telegram](https://t.me/Marsh12356)
 
