@@ -25,34 +25,34 @@ I build complete web applications — from database schema and REST API to polis
 
 ### 💻 Technologies
 
-[![React](https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg "React")](https://react.dev)
-[![TypeScript](https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg "TypeScript")](https://www.typescriptlang.org)
-[![NextJS](https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg "Next.js")](https://nextjs.org)
-[![Vite](https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg "Vite")](https://vitejs.dev)
-[![TailwindCSS](https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg "Tailwind CSS")](https://tailwindcss.com)
-[![JavaScript](https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg "JavaScript")](https://www.javascript.com)
-[![HTML5](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg "HTML5")](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg "CSS3")](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" height="32"></a>
+<a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="32"></a>
+<a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="32"></a>
+<a href="https://vitejs.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="32"></a>
+<a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="32"></a>
+<a href="https://www.javascript.com"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="32"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="32"></a>
 
-[![NodeJS](https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg "Node.js")](https://nodejs.org)
-[![Express](https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg "Express")](https://expressjs.com)
-[![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg "Python")](https://www.python.org)
-[![FastAPI](https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg "FastAPI")](https://fastapi.tiangolo.com)
-[![SQLAlchemy](https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg "SQLAlchemy")](https://www.sqlalchemy.org)
+<a href="https://nodejs.org"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="32"></a>
+<a href="https://expressjs.com"><img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" height="32"></a>
+<a href="https://www.python.org"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" height="32"></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="32"></a>
+<a href="https://www.sqlalchemy.org"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="32"></a>
 
-[![MongoDB](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg "MongoDB")](https://www.mongodb.com)
-[![PostgreSQL](https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg "PostgreSQL")](https://www.postgresql.org)
-[![SocketIO](https://github.com/devicons/devicon/raw/master/icons/socketio/socketio-original.svg "Socket.io")](https://socket.io)
+<a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="32"></a>
+<a href="https://www.postgresql.org"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="32"></a>
+<a href="https://socket.io"><img src="https://github.com/devicons/devicon/raw/master/icons/socketio/socketio-original.svg" alt="Socket.io" height="32"></a>
 
 ---
 
 ### 🛠 Tools
 
-[![Git](https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg "Git")](https://git-scm.com)
-[![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg "Docker")](https://www.docker.com)
-[![Vite](https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg "Vite")](https://vitejs.dev)
-[![ESLint](https://github.com/devicons/devicon/raw/master/icons/eslint/eslint-original.svg "ESLint")](https://eslint.org)
-[![VisualStudio](https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-original.svg "VS Code")](https://code.visualstudio.com)
+<a href="https://git-scm.com"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" height="32"></a>
+<a href="https://www.docker.com"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" height="32"></a>
+<a href="https://vitejs.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="32"></a>
+<a href="https://eslint.org"><img src="https://github.com/devicons/devicon/raw/master/icons/eslint/eslint-original.svg" alt="ESLint" height="32"></a>
+<a href="https://code.visualstudio.com"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-original.svg" alt="VS Code" height="32"></a>
 
 ---
 
