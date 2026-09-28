@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./profile/typing.svg" alt="Marshid - Fullstack Developer" />
+<img src="./profile/typing.svg" alt="Marshid P — Fullstack Developer" />
 
-**Fullstack Developer** — from database schema and REST API to polished, responsive React frontends.
+**Fullstack Developer** — BSc Computer Science, University of Calicut. I build complete products: data model, API contract, and the interface that consumes it.
 
-[LinkedIn](https://www.linkedin.com/in/marshidp/) · [Portfolio](https://marshid-portfolio.vercel.app/) · [Telegram](https://t.me/Marsh12356)
+[**Portfolio**](https://marshid-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/marshidp/) · [Telegram](https://t.me/Marsh12356) · [Email](mailto:marshimarshu007@gmail.com)
 
 </div>
 
@@ -72,9 +72,9 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [`fullstack-portfolio`](https://github.com/marshu123/fullstack-portfolio) | Monorepo of 4 production-style apps: e-commerce, social dashboard, chat, task manager | React, TypeScript, Express, FastAPI, MongoDB, PostgreSQL |
-| [`portfolio-website`](https://github.com/marshu123/fullstack-portfolio/tree/main/portfolio-website) | Interactive personal portfolio site | Next.js 14, Tailwind CSS |
-| [`task-manager`](https://github.com/marshu123/task-manager) | Standalone task management app with JWT auth | FastAPI, SQLAlchemy, React |
+| [`portfolio-website`](https://marshid-portfolio.vercel.app/) | **[Live site](https://marshid-portfolio.vercel.app/)** — personal portfolio, statically prerendered | Next.js 14, TypeScript, Tailwind CSS |
+| [`fullstack-portfolio`](https://github.com/marshu123/fullstack-portfolio) | Monorepo of 4 fullstack apps: e-commerce, social dashboard, real-time chat, task manager | React, TypeScript, Express, FastAPI, MongoDB, PostgreSQL |
+| [`task-manager`](https://github.com/marshu123/task-manager) | Task management app with JWT auth, Dockerised | FastAPI, SQLAlchemy, React |
 
 ---
 
