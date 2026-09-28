@@ -33,10 +33,21 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Drop invalid cards
+        run: |
+          for f in profile/stats.svg profile/top-langs.svg; do
+            if [ ! -f "$f" ] || grep -q "Something went wrong" "$f"; then
+              echo "::warning::$f invalid or missing (upstream rate limit) - not committing it"
+              git checkout -- "$f" 2>/dev/null || git rm -q --cached "$f" 2>/dev/null || true
+            fi
+          done
+          exit 0
+
       - name: Commit cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add -A profile/
           git diff --staged --quiet || git commit -m "Update README cards"
           git push
