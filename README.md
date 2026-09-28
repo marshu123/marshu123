@@ -52,7 +52,7 @@ I build complete web applications — from database schema and REST API to polis
 [![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg "Docker")](https://www.docker.com)
 [![Vite](https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg "Vite")](https://vitejs.dev)
 [![ESLint](https://github.com/devicons/devicon/raw/master/icons/eslint/eslint-original.svg "ESLint")](https://eslint.org)
-[![VSCode](https://github.com/hussainweb/hussainweb/raw/main/icons/vscode.png "VS Code")](https://code.visualstudio.com)
+[![VisualStudio](https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-original.svg "VS Code")](https://code.visualstudio.com)
 
 ---
 
@@ -66,9 +66,9 @@ I build complete web applications — from database schema and REST API to polis
 
 ### 📊 Statistics & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshu123&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=marshu123&layout=compact&theme=default&hide_border=true)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
