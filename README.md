@@ -19,7 +19,6 @@ BSc Computer Science graduate focused on building practical software, AI-powered
 - **[CogniFlow Agent Studio](https://github.com/marshu123/cogniflow-agent-studio)** — AI-powered multi-agent orchestration and workflow application built with React, TypeScript and Vite. [Live demo](https://cogniflow-eight.vercel.app)
 - **[Task Manager](https://github.com/marshu123/task-manager)** — Full-stack task management application built with React, TypeScript, FastAPI and Docker. [Live demo](https://task-manager-app-self-five.vercel.app)
 - **[Pulse](https://github.com/marshu123/pulse)** — Full-stack uptime monitoring application built with React, TypeScript, FastAPI and PostgreSQL. [Live demo](https://frontend-ruddy-two-24.vercel.app)
-- **[Portfolio Website](https://github.com/marshu123/fullstack-portfolio)** — [Live site](https://marshid-portfolio.vercel.app/)
 
 ---
 
