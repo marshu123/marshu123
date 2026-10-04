@@ -9,6 +9,8 @@
 BSc Computer Science graduate focused on building practical software,
 full-stack applications, and AI-powered solutions.
 
+[**Portfolio**](https://marshid-portfolio.vercel.app/) · [**LinkedIn**](https://www.linkedin.com/in/marshidp/) · [**Telegram**](https://t.me/Marsh12356)
+
 </div>
 
 ---
