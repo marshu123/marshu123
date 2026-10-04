@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=Marshid+P+%7C+Software+Developer+%7C+Full-Stack+%26+AI" alt="Typing SVG" />
+</p>
+
 # Hi, I'm Marshid 👋
 
 ### Software Developer | Full-Stack & AI
