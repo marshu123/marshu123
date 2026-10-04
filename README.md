@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1200&color=2DD4BF&center=true&vCenter=true&width=850&height=35&lines=Hi%2C+I%27m+Marshid+P%3B+Software+Developer+%7C+Full-Stack+%26+AI" alt="Typing SVG" />
 </p>
 
-# Hi, I'm Marshid 👋
 ### Software Developer | Full-Stack & AI
 
 BSc Computer Science graduate focused on building practical software,
