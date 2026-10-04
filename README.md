@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="./profile/typing.svg" alt="Marshid P — Fullstack Developer" />
+# Hi, I'm Marshid 👋
 
-**Fullstack Developer** — BSc Computer Science, University of Calicut. I build complete products: data model, API contract, and the interface that consumes it.
+### Software Developer | Full-Stack & AI
+
+BSc Computer Science graduate focused on building practical software,
+full-stack applications, and AI-powered solutions.
 
 [**Portfolio**](https://marshid-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/marshidp/) · [Telegram](https://t.me/Marsh12356) · [Email](mailto:marshimarshu007@gmail.com)
 
@@ -10,74 +13,41 @@
 
 ---
 
-## 💻 About Me
-
-- 🌱 Fullstack developer focused on **React + TypeScript** on the front and **Node.js/Express** and **Python/FastAPI** on the back
-- 🔐 Comfortable with real-world concerns: **JWT auth**, password hashing, input validation, and error handling
-- 🗄️ Work across both **SQL** (PostgreSQL, SQLAlchemy) and **NoSQL** (MongoDB) data layers
-- ⚡ Build real-time features with **Socket.io**
-- 🐳 Containerize everything with **Docker** for consistent local and deployed environments
-- 💬 Ask me about REST API design, React component architecture, or auth flows
-
----
-
-### 💻 Technologies
-
-<a href="https://react.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" alt="React" height="32"></a>
-<a href="https://www.typescriptlang.org"><img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="32"></a>
-<a href="https://nextjs.org"><img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="32"></a>
-<a href="https://vitejs.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="32"></a>
-<a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="32"></a>
-<a href="https://www.javascript.com"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="HTML5" height="32"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="CSS3" height="32"></a>
-
-<a href="https://nodejs.org"><img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" alt="Node.js" height="32"></a>
-<a href="https://expressjs.com"><img src="https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg" alt="Express" height="32"></a>
-<a href="https://www.python.org"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="Python" height="32"></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" height="32"></a>
-<a href="https://www.sqlalchemy.org"><img src="https://github.com/devicons/devicon/raw/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" height="32"></a>
-
-<a href="https://www.mongodb.com"><img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="32"></a>
-<a href="https://www.postgresql.org"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="32"></a>
-<a href="https://socket.io"><img src="https://github.com/devicons/devicon/raw/master/icons/socketio/socketio-original.svg" alt="Socket.io" height="32"></a>
-
----
-
-### 🛠 Tools
-
-<a href="https://git-scm.com"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="Git" height="32"></a>
-<a href="https://www.docker.com"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" alt="Docker" height="32"></a>
-<a href="https://vitejs.dev"><img src="https://github.com/devicons/devicon/raw/master/icons/vitejs/vitejs-original.svg" alt="Vite" height="32"></a>
-<a href="https://eslint.org"><img src="https://github.com/devicons/devicon/raw/master/icons/eslint/eslint-original.svg" alt="ESLint" height="32"></a>
-<a href="https://code.visualstudio.com"><img src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-original.svg" alt="VS Code" height="32"></a>
-
----
-
-### 🤝 Where to find me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marshidp/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Marsh12356)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marshid-portfolio.vercel.app/)
-
----
-
-### 📊 Statistics & Languages
-
-![Top Languages](./profile/top-langs.svg)
-
----
-
 ### 🚀 Featured Projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [`portfolio-website`](https://marshid-portfolio.vercel.app/) | **[Live site](https://marshid-portfolio.vercel.app/)** — personal portfolio, statically prerendered | Next.js 14, TypeScript, Tailwind CSS |
-| [`fullstack-portfolio`](https://github.com/marshu123/fullstack-portfolio) | Monorepo of 4 fullstack apps: e-commerce, social dashboard, real-time chat, task manager | React, TypeScript, Express, FastAPI, MongoDB, PostgreSQL |
-| [`task-manager`](https://github.com/marshu123/task-manager) | Task management app with JWT auth, Dockerised | FastAPI, SQLAlchemy, React |
+1. **[CogniFlow Agent Studio](https://github.com/marshu123/cogniflow-agent-studio)** — Multi-agent orchestration on a DAG execution engine. Supervisor-coordinated agents, reflection loop, sandboxed tools, streaming token telemetry.
+   **Live demo:** https://cogniflow-eight.vercel.app
+
+2. **[Pulse](https://github.com/marshu123/pulse)** — Uptime monitoring service with a background scheduler, time-series stats, and JWT auth. FastAPI + React + PostgreSQL.
+   **Live demo:** https://frontend-ruddy-two-24.vercel.app
+
+3. **[Task Manager](https://github.com/marshu123/task-manager)** — Task CRUD application: FastAPI + SQLAlchemy backend, React + TypeScript frontend, Dockerized.
+   **Live demo:** https://task-manager-app-self-five.vercel.app
+
+4. **[Portfolio Website](https://github.com/marshu123/fullstack-portfolio)** — This portfolio, built with Next.js 14 and Tailwind CSS.
+   **Live site:** https://marshid-portfolio.vercel.app/
 
 ---
 
-<div align="center">
-  Made with ❤️ by Marshid
-</div>
+### 🛠️ Technologies
+
+**Frontend**
+React, TypeScript, Next.js, Vite, Tailwind CSS
+
+**Backend**
+Node.js, Express, Python, FastAPI, SQLAlchemy, REST API design, JWT auth
+
+**Databases**
+PostgreSQL, SQLite, MongoDB, Mongoose
+
+**AI**
+Google Gemini API, multi-agent orchestration
+
+**Tools & Deployment**
+Docker, Git, GitHub Actions, Vercel, Render
+
+---
+
+### 📌 Notes
+
+- The `fullstack-portfolio` repository also contains archived/incomplete experiments (e-commerce platform, social dashboard, chat app). They are not production applications; see the README there for the honest status of each.
