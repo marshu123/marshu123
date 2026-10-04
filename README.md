@@ -5,7 +5,6 @@
 </p>
 
 # Hi, I'm Marshid 👋
-
 ### Software Developer | Full-Stack & AI
 
 BSc Computer Science graduate focused on building practical software,
